@@ -1,0 +1,15 @@
+export 'base/base.dart';
+export 'community/community.dart';
+export 'create_post/create_post.dart';
+export 'home/home.dart';
+export 'intro/intro.dart';
+export 'login/login.dart';
+export 'my_collection/my_collection.dart';
+export 'navigation/navigation.dart';
+export 'profile/profile.dart';
+export 'search/search.dart';
+export 'splash/splash.dart';
+export 'widgets/widgets.dart';
+export 'package:get/get.dart';
+export 'post_detail/post_detail.dart';
+export 'recent_post/recent_post.dart';

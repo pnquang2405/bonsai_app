@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1064454983663",
+    "project_id": "bonsai-app-54e7f",
+    "storage_bucket": "bonsai-app-54e7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064454983663:android:1129e5197f8e1ce75ff01a",
+        "android_client_info": {
+          "package_name": "com.bosai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064454983663-6spg2091l5n4svl47mq20t73vuasg05r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNvDYDtSBQhB4-ARoYLcbpph0y5pi2kgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064454983663-6spg2091l5n4svl47mq20t73vuasg05r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1064454983663-g8ts7d95qj4v61el6p25r3o950o327fd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bosai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

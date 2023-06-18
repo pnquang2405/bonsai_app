@@ -1,0 +1,35 @@
+<svg width="326" height="302" viewBox="0 0 326 302" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <filter id="filter0_d_126_105" x="55" y="32" width="216" height="192" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+            <feOffset dy="4"/>
+            <feGaussianBlur stdDeviation="2"/>
+            <feComposite in2="hardAlpha" operator="out"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_126_105"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_126_105" result="shape"/>
+        </filter>
+        <filter id="filter1_d_126_105" x="0.350185" y="0.629168" width="325.3" height="301.3" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+            <feOffset dy="27.279"/>
+            <feGaussianBlur stdDeviation="29.3249"/>
+            <feComposite in2="hardAlpha" operator="out"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0.631373 0 0 0 0 0.945098 0 0 0 0 0.427451 0 0 0 0.9 0"/>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_126_105"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_126_105" result="shape"/>
+        </filter>
+        <linearGradient id="paint0_linear_126_105" x1="163" y1="32" x2="163" y2="216" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#1EAE86"/>
+            <stop offset="1" stop-color="#1EAE86" stop-opacity="0.5"/>
+        </linearGradient>
+    </defs>
+    <g filter="url(#filter0_d_126_105)">
+<g filter="url(#filter1_d_126_105)">
+<ellipse cx="163" cy="124" rx="104" ry="92" fill="url(#paint0_linear_126_105)" shape-rendering="crispEdges"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M163 156.938C153.458 156.938 146.905 156.928 141.894 156.444C137.024 155.974 134.508 155.12 132.714 153.958C131.228 152.995 129.922 151.83 128.842 150.505C127.539 148.905 126.581 146.662 126.053 142.32C125.968 141.615 125.895 140.877 125.834 140.099C125.693 138.302 124.048 136.875 122.028 136.875C119.905 136.875 118.193 138.447 118.335 140.335C118.813 146.69 119.97 150.994 122.775 154.436C124.317 156.329 126.183 157.993 128.305 159.368C134.877 163.625 144.251 163.625 163 163.625C181.748 163.625 191.123 163.625 197.694 159.368C199.817 157.993 201.683 156.329 203.225 154.436C206.03 150.994 207.187 146.69 207.664 140.335C207.806 138.447 206.095 136.875 203.972 136.875C201.952 136.875 200.307 138.302 200.166 140.099C200.105 140.877 200.032 141.615 199.947 142.32C199.419 146.662 198.461 148.905 197.158 150.505C196.078 151.83 194.772 152.995 193.286 153.958C191.492 155.12 188.976 155.974 184.106 156.444C179.095 156.928 172.541 156.938 163 156.938ZM122.028 110.125C124.048 110.125 125.693 108.698 125.834 106.901C125.895 106.123 125.968 105.385 126.053 104.681C126.581 100.338 127.539 98.0946 128.842 96.4948C129.922 95.1701 131.228 94.0051 132.714 93.0426C134.508 91.8803 137.024 91.0263 141.894 90.5558C146.905 90.0717 153.458 90.0625 163 90.0625C172.541 90.0625 179.095 90.0717 184.106 90.5558C188.976 91.0263 191.492 91.8803 193.286 93.0426C194.772 94.0051 196.078 95.1701 197.158 96.4948C198.461 98.0946 199.419 100.338 199.947 104.681C200.032 105.385 200.105 106.123 200.166 106.901C200.307 108.698 201.952 110.125 203.972 110.125C206.095 110.125 207.806 108.554 207.664 106.665C207.187 100.31 206.03 96.006 203.225 92.5639C201.683 90.6715 199.817 89.0073 197.694 87.6323C191.123 83.375 181.748 83.375 163 83.375C144.251 83.375 134.877 83.375 128.305 87.6323C126.183 89.0073 124.317 90.6715 122.775 92.5639C119.97 96.006 118.813 100.31 118.335 106.665C118.193 108.554 119.905 110.125 122.028 110.125Z" fill="white"/>
+<path d="M116.75 124.615H209.25" stroke="white" stroke-width="2.98364" stroke-linecap="round"/>
+</g>
+</svg>

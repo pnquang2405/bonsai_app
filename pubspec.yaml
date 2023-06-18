@@ -1,0 +1,88 @@
+name: flutter_app
+description: Application with flutter.
+
+version: 4.6.5
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Notification
+#  flutter_local_notifications: ^14.0.0+1
+#  firebase_messaging: ^14.5.0
+#  intl: ^0.18.1
+  # Firebase
+#  firebase_analytics: ^10.3.0
+  firebase_core: ^2.13.0
+#  cloud_firestore: ^4.6.0
+  firebase_storage: ^11.1.2
+#  firebase_auth: ^4.5.0
+
+  #SignIn social
+#  flutter_facebook_auth: ^5.0.10
+#  google_sign_in: ^6.1.0
+#  sign_in_with_apple: ^4.1.0
+#  twitter_login: ^4.2.3
+
+  #Network
+  dio: ^5.1.2
+  connectivity_plus: ^4.0.0
+  logger: ^1.1.0
+
+  #Boilerplate
+  get: ^4.6.5
+  get_storage: ^2.0.3
+#  rxdart: ^0.27.5
+
+  #Other
+  crypto: ^3.0.2
+  flutter_svg: ^2.0.5
+  path_provider: ^2.0.15
+#  device_info_plus: ^8.2.2
+  overlay_support: ^2.0.1
+  cached_network_image: ^3.2.2
+  intro_slider: ^4.2.0
+  keyboard_dismisser: ^2.0.0
+  flutter_screenutil: ^5.7.0
+  fluttertoast: ^8.2.1
+  camera: ^0.10.5
+  path: ^1.8.0
+  like_button: ^2.0.5
+  readmore: ^2.2.0
+  dotted_border: ^2.0.0+3
+  permission_handler: ^10.2.0
+  image_picker: ^0.8.7+5
+  image_cropper: ^3.0.3
+  timeago: ^3.3.0
+
+  #DataBase
+#  backendless_sdk: ^7.2.3
+
+
+dev_dependencies:
+  flutter_launcher_icons: "^0.13.1"
+
+
+flutter_launcher_icons:
+    image_path: "assets/images/png/logo.png"
+    android: true
+    ios: true
+
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/images/png/
+    - assets/images/jpg/
+    - assets/images/svg/
+
+#
+#dependency_overrides:
+#        camera_android: 0.9.7+1
+#        camera_avfoundation: 0.9.7+1
+

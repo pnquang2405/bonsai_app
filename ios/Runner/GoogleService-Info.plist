@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1012696360856-kvmbb9g2ai6n96en426r2fo13r6phd4h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1012696360856-kvmbb9g2ai6n96en426r2fo13r6phd4h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCQ8YzsW-vyntDMnvXTw1LUGjhcGh-Pxn0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1012696360856</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bonsai</string>
+	<key>PROJECT_ID</key>
+	<string>bosai-cd698</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bosai-cd698.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1012696360856:ios:1db913098e9cf10813aded</string>
+</dict>
+</plist>
